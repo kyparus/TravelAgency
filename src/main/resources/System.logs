@@ -1,0 +1,354 @@
+2015-12-12 17:53:31 DEBUG indexServlet:21 - Index page opened.
+2015-12-12 17:53:31 DEBUG indexServlet:27 - Forward to login page.
+2015-12-12 17:53:35 DEBUG Command:28 - admin is trying to sign in.
+2015-12-12 17:53:35 DEBUG TravelAgency:47 - Try to create connection pool.
+2015-12-12 17:53:35 DEBUG TravelAgency:51 - Pool for DB created.
+2015-12-12 17:53:35 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 17:53:35 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 17:53:35 DEBUG TravelAgency:263 - Updating discount value. (before 0.0)
+2015-12-12 17:53:35 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 17:53:35 DEBUG ClientDAO:262 - Trying to get client with nickName admin
+2015-12-12 17:53:35 DEBUG ClientDAO:304 -  No client was picked from DB.
+2015-12-12 17:53:35 DEBUG AgentDAO:257 - Trying to get agent with nickName admin
+2015-12-12 17:53:35 DEBUG AgentDAO:298 - Agent admin was picked from DB.
+2015-12-12 17:53:35 DEBUG Command:49 - Agent adminsigned in successfully.
+2015-12-12 17:53:35 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 17:53:35 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 17:53:35 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 17:53:35 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 17:53:36 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 17:53:36 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 17:53:36 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 17:53:36 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 17:56:36 DEBUG indexServlet:21 - Index page opened.
+2015-12-12 17:56:36 DEBUG indexServlet:27 - Forward to login page.
+2015-12-12 17:56:40 DEBUG Command:28 - admin is trying to sign in.
+2015-12-12 17:56:40 DEBUG TravelAgency:47 - Try to create connection pool.
+2015-12-12 17:56:40 DEBUG TravelAgency:51 - Pool for DB created.
+2015-12-12 17:56:40 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 17:56:40 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 17:56:40 DEBUG TravelAgency:263 - Updating discount value. (before 0.0)
+2015-12-12 17:56:40 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 17:56:40 DEBUG ClientDAO:262 - Trying to get client with nickName admin
+2015-12-12 17:56:40 DEBUG ClientDAO:304 -  No client was picked from DB.
+2015-12-12 17:56:40 DEBUG AgentDAO:257 - Trying to get agent with nickName admin
+2015-12-12 17:56:40 DEBUG AgentDAO:298 - Agent admin was picked from DB.
+2015-12-12 17:56:40 DEBUG Command:49 - Agent adminsigned in successfully.
+2015-12-12 17:56:40 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 17:56:40 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 17:56:40 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 17:56:40 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 17:56:41 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 17:56:41 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 17:56:41 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 17:56:41 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:24 DEBUG indexServlet:21 - Index page opened.
+2015-12-12 18:00:24 DEBUG indexServlet:27 - Forward to login page.
+2015-12-12 18:00:28 DEBUG Command:28 - admin is trying to sign in.
+2015-12-12 18:00:28 DEBUG TravelAgency:47 - Try to create connection pool.
+2015-12-12 18:00:28 DEBUG TravelAgency:51 - Pool for DB created.
+2015-12-12 18:00:28 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:28 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:28 DEBUG TravelAgency:263 - Updating discount value. (before 0.0)
+2015-12-12 18:00:28 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:28 DEBUG ClientDAO:262 - Trying to get client with nickName admin
+2015-12-12 18:00:28 DEBUG ClientDAO:304 -  No client was picked from DB.
+2015-12-12 18:00:28 DEBUG AgentDAO:257 - Trying to get agent with nickName admin
+2015-12-12 18:00:28 DEBUG AgentDAO:298 - Agent admin was picked from DB.
+2015-12-12 18:00:28 DEBUG Command:49 - Agent adminsigned in successfully.
+2015-12-12 18:00:28 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:00:28 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:00:28 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:00:28 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:00:28 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:28 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:28 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:28 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:30 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:00:30 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:00:30 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-12 18:00:30 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-12 18:00:30 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:30 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:30 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:30 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:31 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:00:31 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:00:31 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:00:31 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:00:31 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:31 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:31 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:31 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:37 DEBUG TravelAgency:61 - Check if Schedule exists.
+2015-12-12 18:00:37 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:44 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:00:44 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:00:44 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:00:44 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:00:44 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:44 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:44 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:44 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:46 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:00:46 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:00:46 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:00:46 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:00:46 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:46 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:46 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:46 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:47 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:00:47 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:00:47 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-12 18:00:47 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-12 18:00:47 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:47 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:47 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:47 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:48 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-12 18:00:48 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-12 18:00:48 DEBUG ShopTourDAO:136 - Getting all tours.
+2015-12-12 18:00:48 DEBUG ShopTourDAO:165 - Got all tours.
+2015-12-12 18:00:48 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:48 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:48 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:48 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:00:49 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:00:49 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:00:49 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:00:49 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:00:49 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:00:49 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:00:49 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:00:49 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:02:46 DEBUG indexServlet:21 - Index page opened.
+2015-12-12 18:02:46 DEBUG indexServlet:27 - Forward to login page.
+2015-12-12 18:02:50 DEBUG Command:28 - admin is trying to sign in.
+2015-12-12 18:02:50 DEBUG TravelAgency:47 - Try to create connection pool.
+2015-12-12 18:02:50 DEBUG TravelAgency:51 - Pool for DB created.
+2015-12-12 18:02:50 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:02:51 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:02:51 DEBUG TravelAgency:263 - Updating discount value. (before 0.0)
+2015-12-12 18:02:51 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:02:51 DEBUG ClientDAO:262 - Trying to get client with nickName admin
+2015-12-12 18:02:51 DEBUG ClientDAO:304 -  No client was picked from DB.
+2015-12-12 18:02:51 DEBUG AgentDAO:257 - Trying to get agent with nickName admin
+2015-12-12 18:02:51 DEBUG AgentDAO:298 - Agent admin was picked from DB.
+2015-12-12 18:02:51 DEBUG Command:49 - Agent adminsigned in successfully.
+2015-12-12 18:02:51 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:51 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:51 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:02:51 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:02:51 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:02:51 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:02:51 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:02:51 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:02:52 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:02:52 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:02:52 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-12 18:02:52 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-12 18:02:52 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:02:52 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:02:52 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:02:52 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:02:53 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:53 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:53 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:02:53 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:02:53 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:02:53 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:02:53 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:02:53 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:02:55 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:55 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:55 DEBUG RestTourDAO:77 - Selecting tour with ID 2
+2015-12-12 18:02:55 DEBUG RestTourDAO:104 - Selected tour with ID 2
+2015-12-12 18:02:55 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:55 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:55 DEBUG TourDAO:82 - Updating tour 2 from RestTours
+2015-12-12 18:02:55 DEBUG TourDAO:98 - Tour 2 was updated.
+2015-12-12 18:02:55 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:55 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:55 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:02:55 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:02:55 DEBUG Command:43 - RestTour with ID 2 was marked as hot.
+2015-12-12 18:02:55 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:02:55 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:02:55 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:02:55 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:02:57 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:57 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:57 DEBUG RestTourDAO:77 - Selecting tour with ID 2
+2015-12-12 18:02:57 DEBUG RestTourDAO:104 - Selected tour with ID 2
+2015-12-12 18:02:57 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:57 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:57 DEBUG TourDAO:82 - Updating tour 2 from RestTours
+2015-12-12 18:02:57 DEBUG TourDAO:98 - Tour 2 was updated.
+2015-12-12 18:02:57 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:02:58 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:02:58 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:02:58 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:02:58 DEBUG Command:43 - RestTour with ID 2 was marked as hot.
+2015-12-12 18:02:58 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:02:58 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:02:58 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:02:58 DEBUG TravelAgency:278 - Updated discount value. (after 12.2)
+2015-12-12 18:03:03 DEBUG Command:15 - Request for updating discount to 12.6
+2015-12-12 18:03:03 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:03:03 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:03:03 DEBUG TravelAgency:308 - Changing discount value from 12.2 to 12.6.
+2015-12-12 18:03:03 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:03:03 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:03:03 DEBUG TravelAgency:263 - Updating discount value. (before 12.2)
+2015-12-12 18:03:03 DEBUG TravelAgency:278 - Updated discount value. (after 12.6)
+2015-12-12 18:03:03 DEBUG TravelAgency:322 - Discount updated successfully.
+2015-12-12 18:03:03 DEBUG Command:18 - Discount updated.
+2015-12-12 18:03:03 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:03:03 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:03:03 DEBUG TravelAgency:263 - Updating discount value. (before 12.6)
+2015-12-12 18:03:03 DEBUG TravelAgency:278 - Updated discount value. (after 12.6)
+2015-12-12 18:04:22 DEBUG indexServlet:21 - Index page opened.
+2015-12-12 18:04:22 DEBUG indexServlet:27 - Forward to login page.
+2015-12-12 18:04:27 DEBUG Command:28 - kyparus is trying to sign in.
+2015-12-12 18:04:27 DEBUG TravelAgency:47 - Try to create connection pool.
+2015-12-12 18:04:27 DEBUG TravelAgency:51 - Pool for DB created.
+2015-12-12 18:04:27 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-12 18:04:27 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:04:27 DEBUG TravelAgency:263 - Updating discount value. (before 0.0)
+2015-12-12 18:04:27 DEBUG TravelAgency:278 - Updated discount value. (after 12.6)
+2015-12-12 18:04:27 DEBUG ClientDAO:262 - Trying to get client with nickName kyparus
+2015-12-12 18:04:27 DEBUG ClientDAO:302 - Client kyparus was picked from DB.
+2015-12-12 18:04:27 DEBUG Command:38 - Client kyparussigned in successfully.
+2015-12-12 18:04:27 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:04:27 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:04:27 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:04:27 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:04:29 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-12 18:04:29 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-12 18:04:29 DEBUG ShopTourDAO:136 - Getting all tours.
+2015-12-12 18:04:29 DEBUG ShopTourDAO:165 - Got all tours.
+2015-12-12 18:04:30 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:04:30 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:04:30 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-12 18:04:30 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-12 18:04:30 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:04:30 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:04:30 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-12 18:04:30 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-12 18:04:31 DEBUG TravelAgency:61 - Check if Schedule exists.
+2015-12-12 18:04:31 DEBUG TravelAgency:67 - tableName exists.
+2015-12-12 18:04:31 DEBUG TravelAgency:190 - Selecting all orders of kyparus
+2015-12-12 18:04:31 DEBUG TravelAgency:213 - All orders of kyparus picked from DB.
+2015-12-12 18:04:31 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-12 18:04:31 DEBUG TourDAO:34 - RestTours exists.
+2015-12-12 18:04:31 DEBUG RestTourDAO:77 - Selecting tour with ID 3
+2015-12-12 18:04:31 DEBUG RestTourDAO:104 - Selected tour with ID 3
+2015-12-12 18:04:31 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:04:31 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:04:31 DEBUG ExcursionTourDAO:71 - Selecting tour with ID 2
+2015-12-12 18:04:31 DEBUG ExcursionTourDAO:98 - Selected tour with ID 2
+2015-12-12 18:04:31 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-12 18:04:31 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-12 18:04:31 DEBUG ShopTourDAO:73 - Selecting tour with ID 3
+2015-12-12 18:04:31 DEBUG ShopTourDAO:100 - Selected tour with ID 3
+2015-12-12 18:04:31 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-12 18:04:31 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-12 18:04:31 DEBUG ShopTourDAO:73 - Selecting tour with ID 3
+2015-12-12 18:04:31 DEBUG ShopTourDAO:100 - Selected tour with ID 3
+2015-12-12 18:04:31 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-12 18:04:31 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-12 18:04:31 DEBUG ShopTourDAO:73 - Selecting tour with ID 3
+2015-12-12 18:04:31 DEBUG ShopTourDAO:100 - Selected tour with ID 3
+2015-12-12 18:04:31 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:04:31 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:04:31 DEBUG ExcursionTourDAO:71 - Selecting tour with ID 2
+2015-12-12 18:04:31 DEBUG ExcursionTourDAO:98 - Selected tour with ID 2
+2015-12-12 18:04:31 DEBUG TravelAgency:227 - All tours of kyparus where picked from.
+2015-12-12 18:04:37 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:04:37 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:04:37 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-12 18:04:37 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-12 18:04:39 DEBUG Command:28 - Opening tour with id 2
+2015-12-12 18:04:39 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-12 18:04:39 DEBUG TourDAO:34 - ExTours exists.
+2015-12-12 18:04:39 DEBUG ExcursionTourDAO:71 - Selecting tour with ID 2
+2015-12-12 18:04:39 DEBUG ExcursionTourDAO:98 - Selected tour with ID 2
+2015-12-12 18:04:39 DEBUG Command:51 - Forwarding to /client/tour.jsp
+2015-12-12 18:04:46 DEBUG indexServlet:21 - Index page opened.
+2015-12-12 18:04:46 DEBUG indexServlet:27 - Forward to login page.
+2015-12-22 11:55:56 DEBUG indexServlet:21 - Index page opened.
+2015-12-22 11:55:56 DEBUG indexServlet:27 - Forward to login page.
+2015-12-22 11:56:02 DEBUG Command:28 - yurii is trying to sign in.
+2015-12-22 11:56:02 DEBUG TravelAgency:47 - Try to create connection pool.
+2015-12-22 11:56:02 DEBUG TravelAgency:51 - Pool for DB created.
+2015-12-22 11:56:02 DEBUG TravelAgency:61 - Check if Discount exists.
+2015-12-22 11:56:02 DEBUG TravelAgency:67 - tableName exists.
+2015-12-22 11:56:02 DEBUG TravelAgency:263 - Updating discount value. (before 0.0)
+2015-12-22 11:56:02 DEBUG TravelAgency:278 - Updated discount value. (after 12.6)
+2015-12-22 11:56:02 DEBUG ClientDAO:262 - Trying to get client with nickName yurii
+2015-12-22 11:56:02 DEBUG ClientDAO:302 - Client yurii was picked from DB.
+2015-12-22 11:56:02 DEBUG Command:38 - Client yuriisigned in successfully.
+2015-12-22 11:56:02 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:02 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:02 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-22 11:56:02 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-22 11:56:14 DEBUG TravelAgency:61 - Check if Schedule exists.
+2015-12-22 11:56:14 DEBUG TravelAgency:67 - tableName exists.
+2015-12-22 11:56:14 DEBUG TravelAgency:190 - Selecting all orders of yurii
+2015-12-22 11:56:14 DEBUG TravelAgency:213 - All orders of yurii picked from DB.
+2015-12-22 11:56:14 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:14 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:14 DEBUG RestTourDAO:77 - Selecting tour with ID 1
+2015-12-22 11:56:14 DEBUG RestTourDAO:104 - Selected tour with ID 1
+2015-12-22 11:56:14 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-22 11:56:14 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-22 11:56:14 DEBUG ShopTourDAO:73 - Selecting tour with ID 1
+2015-12-22 11:56:14 DEBUG ShopTourDAO:100 - Selected tour with ID 1
+2015-12-22 11:56:14 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-22 11:56:14 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-22 11:56:14 DEBUG ShopTourDAO:73 - Selecting tour with ID 2
+2015-12-22 11:56:14 DEBUG ShopTourDAO:100 - Selected tour with ID 2
+2015-12-22 11:56:14 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-22 11:56:14 DEBUG TourDAO:34 - ExTours exists.
+2015-12-22 11:56:14 DEBUG ExcursionTourDAO:71 - Selecting tour with ID 2
+2015-12-22 11:56:14 DEBUG ExcursionTourDAO:98 - Selected tour with ID 2
+2015-12-22 11:56:14 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-22 11:56:14 DEBUG TourDAO:34 - ExTours exists.
+2015-12-22 11:56:14 DEBUG ExcursionTourDAO:71 - Selecting tour with ID 1
+2015-12-22 11:56:14 DEBUG ExcursionTourDAO:98 - Selected tour with ID 1
+2015-12-22 11:56:14 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:14 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:14 DEBUG RestTourDAO:77 - Selecting tour with ID 1
+2015-12-22 11:56:14 DEBUG RestTourDAO:104 - Selected tour with ID 1
+2015-12-22 11:56:14 DEBUG TravelAgency:227 - All tours of yurii where picked from.
+2015-12-22 11:56:19 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-22 11:56:19 DEBUG TourDAO:34 - ExTours exists.
+2015-12-22 11:56:19 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-22 11:56:19 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-22 11:56:21 DEBUG TourDAO:28 - Checking if ShopTours exists.
+2015-12-22 11:56:21 DEBUG TourDAO:34 - ShopTours exists.
+2015-12-22 11:56:21 DEBUG ShopTourDAO:136 - Getting all tours.
+2015-12-22 11:56:21 DEBUG ShopTourDAO:165 - Got all tours.
+2015-12-22 11:56:22 DEBUG TourDAO:28 - Checking if ExTours exists.
+2015-12-22 11:56:22 DEBUG TourDAO:34 - ExTours exists.
+2015-12-22 11:56:22 DEBUG ExcursionTourDAO:138 - Getting all tours.
+2015-12-22 11:56:22 DEBUG ExcursionTourDAO:168 - Got all tours.
+2015-12-22 11:56:23 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:23 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:23 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-22 11:56:23 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-22 11:56:24 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:24 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:24 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-22 11:56:24 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-22 11:56:30 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:30 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:30 DEBUG RestTourDAO:140 - Getting all tours.
+2015-12-22 11:56:30 DEBUG RestTourDAO:169 - Got all tours.
+2015-12-22 11:56:44 DEBUG Command:28 - Opening tour with id 2
+2015-12-22 11:56:44 DEBUG TourDAO:28 - Checking if RestTours exists.
+2015-12-22 11:56:44 DEBUG TourDAO:34 - RestTours exists.
+2015-12-22 11:56:44 DEBUG RestTourDAO:77 - Selecting tour with ID 2
+2015-12-22 11:56:44 DEBUG RestTourDAO:104 - Selected tour with ID 2
+2015-12-22 11:56:44 DEBUG Command:50 - Forwarding to /client/tour.jsp

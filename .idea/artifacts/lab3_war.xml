@@ -1,0 +1,44 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lab3:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lab3.war">
+      <element id="artifact" artifact-name="lab3:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.35-bin" />
+          <element id="file-copy" path="$PROJECT_DIR$/commons-dbcp-1.0-dev-20020806.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/commons-dbcp2-2.1.1.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/dbpool-7.0.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-api-2.0.99.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/mysql-connector-java-5.1.37-bin.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-api-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-ext-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-jcl-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-nop-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-jdk14-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/jul-to-slf4j-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-simple-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-android-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-log4j12-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/jcl-over-slf4j-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-migrator-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/osgi-over-slf4j-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/log4j-over-slf4j-1.7.13.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-api-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-ext-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-jcl-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-nop-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-jdk14-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/jul-to-slf4j-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-simple-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-android-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/slf4j-log4j12-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/jcl-over-slf4j-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/osgi-over-slf4j-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/slf4j-1.7.13/log4j-over-slf4j-1.7.13-sources.jar" />
+          <element id="file-copy" path="/Library/Java/Extensions/log4j-1.2.17.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
